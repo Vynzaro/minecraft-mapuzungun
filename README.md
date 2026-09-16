@@ -64,7 +64,7 @@ Do not accept translations of the following type:
 English → Google Translate → Spanish → Mapuzugun
 ```
 
-Do not mix writing systems without indicating it. If a source uses the Unified Writing System (Grafemario Unificado), Raguileo, or another orthography, the conversion to Azümchefe must be reviewed; automatic substitutions are not sufficient.
+Do not mix writing systems without indicating it. If a source uses the Unified Writing System (Grafemario Unificado), Raguileo, or another orthography, the conversion to AMU/UMA must be reviewed; automatic substitutions are not sufficient.
 
 ## Licenses
 
