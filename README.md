@@ -1,5 +1,5 @@
 # Minecraft Mapuzungun
-Comunitary and open translation of **Minecraft: Java Edition** into Mapuzungun/Mapuche language, using **Azümchefe graphemary** as the main spelling standard.
+Comunitary and open translation of **Minecraft: Java Edition** into Mapuzungun/Mapuche language, using **Alfabeto Mapuche Unificado (AMU) graphemary** or Unified Mapuche Alphabet (UMA) as the main spelling standard.
 
 >[!CAUTION]
 >This project is not maintained, affiliated with, related to, or delegated by Mojang AB, Microsoft Corporation, or Xbox (Microsoft Gaming).
@@ -18,8 +18,8 @@ The initial version targets **Minecraft Java 1.20.1**.
 
 ## Principles
 
-- Primary spelling: **Azümchefe**.
-- Source priority: CONADI / MINEDUC and institutional educational material; followed by other documented linguistic sources.
+- Primary spelling: **Alfabeto Mapuche Unificado (AMU)** or Unified Mapuche Alphabet (UMA).
+- Source priority: CONADI (Corporación Nacional de Desarrollo Indígena de Chile), MINEDUC (Ministerio de Educación de Chile) and institutional educational material; followed by other documented linguistic sources.
 - Do not translate literally from Spanish or other languages.
 - Do not invent neologisms without documenting them.
 - Minecraft proper nouns may be left untranslated when that is the clearest option.
